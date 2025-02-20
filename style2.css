@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: Nimbus;
+    src: url('Nimbus Sans Extd D W01 Light.ttf');
+}
+
+.image-container {
+    height: 50%; 
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  
+.image-container.top-image {
+    background-image: url('back.png');
+}
+  
+.image-container.bottom-image {
+    background-image: url('miranda.png');
+}
+
+.boton-atras {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.boton-atras:hover {
+    background-color: #0056b3;
+}   
+
+.historia {
+    width: 50%;
+    margin: 1.6em auto 0.9em auto; 
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Nimbus", sans-serif;
+    text-shadow: 1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-text:hover {
+    color: #cbcdce;
+}
+
+@media (max-width: 768px) {
+    .historia {
+        width: 80%;
+    }
+    
+    .center-text {
+        font-size: 35px;
+    }
+    
+    .boton-atras {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .historia {
+        width: 90%;
+        margin: 1em auto;
+    }
+    
+    .center-text {
+        font-size: 25px;
+    }
+    
+    .boton-atras {
+        padding: 6px;
+    }
+}

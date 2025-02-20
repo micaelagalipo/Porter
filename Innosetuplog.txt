@@ -1,0 +1,895 @@
+﻿2024-01-21 13:40:39.678   Log opened. (Time zone: UTC-03:00)
+2024-01-21 13:40:39.679   Setup version: Inno Setup version 5.6.0 (u)
+2024-01-21 13:40:39.679   Original Setup EXE: C:\Users\daniel\Downloads\pdr-free-x64.exe
+2024-01-21 13:40:39.679   Setup command line: /SL5="$1004C4,62075915,301056,C:\Users\daniel\Downloads\pdr-free-x64.exe" /progress="C:\Users\daniel\AppData\Local\Temp\progress.txt" /VERYSILENT /LOG="C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Innosetuplog.txt" /NORESTART /DIR="C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery" /LANG=spanish /agreeImprove=1 /online
+2024-01-21 13:40:39.679   Windows version: 10.0.19045  (NT platform: Yes)
+2024-01-21 13:40:39.679   64-bit Windows: Yes
+2024-01-21 13:40:39.679   Processor architecture: x64
+2024-01-21 13:40:39.679   User privileges: Administrative
+2024-01-21 13:40:39.682   64-bit install mode: Yes
+2024-01-21 13:40:39.689   Created temporary directory: C:\Users\daniel\AppData\Local\Temp\is-ALT57.tmp
+2024-01-21 13:40:39.708   -- DLL function import --
+2024-01-21 13:40:39.708   Function name: SetTimer
+2024-01-21 13:40:39.708   DLL name: user32.dll
+2024-01-21 13:40:39.708   Dest DLL name: user32.dll
+2024-01-21 13:40:39.708   Importing the DLL function.
+2024-01-21 13:40:39.708   Successfully imported the DLL function. Delay loaded? No
+2024-01-21 13:40:39.708   -- DLL function import --
+2024-01-21 13:40:39.708   Function name: wrapcallback
+2024-01-21 13:40:39.708   DLL name: files:innocallback.dll
+2024-01-21 13:40:39.709   Extracting temporary file: C:\Users\daniel\AppData\Local\Temp\is-ALT57.tmp\innocallback.dll
+2024-01-21 13:40:39.715   Dest DLL name: C:\Users\daniel\AppData\Local\Temp\is-ALT57.tmp\innocallback.dll
+2024-01-21 13:40:39.715   Importing the DLL function.
+2024-01-21 13:40:40.026   Successfully imported the DLL function. Delay loaded? No
+2024-01-21 13:40:40.254   Starting the installation process.
+2024-01-21 13:40:40.260   Directory for uninstall files: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery
+2024-01-21 13:40:40.260   Creating new uninstall log: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\unins000.dat
+2024-01-21 13:40:40.265   -- File entry --
+2024-01-21 13:40:40.265   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\unins000.exe
+2024-01-21 13:40:40.265   Non-default bitness: 32-bit
+2024-01-21 13:40:40.268   Time stamp of our file: 2024-01-21 13:40:38.605
+2024-01-21 13:40:40.268   Installing the file.
+2024-01-21 13:40:40.272   Uninstaller requires administrator: Yes
+2024-01-21 13:40:40.272   Successfully installed the file.
+2024-01-21 13:40:40.273   -- File entry --
+2024-01-21 13:40:40.273   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\7-zip.dll
+2024-01-21 13:40:40.273   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:40.273   Installing the file.
+2024-01-21 13:40:40.279   Successfully installed the file.
+2024-01-21 13:40:40.279   -- File entry --
+2024-01-21 13:40:40.279   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\7z.dll
+2024-01-21 13:40:40.279   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:40.279   Installing the file.
+2024-01-21 13:40:40.323   Saved progress 1
+2024-01-21 13:40:40.351   Successfully installed the file.
+2024-01-21 13:40:40.351   -- File entry --
+2024-01-21 13:40:40.351   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\7z.exe
+2024-01-21 13:40:40.351   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:40.351   Installing the file.
+2024-01-21 13:40:40.369   Successfully installed the file.
+2024-01-21 13:40:40.369   -- File entry --
+2024-01-21 13:40:40.369   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\avcodec-58.dll
+2024-01-21 13:40:40.369   Time stamp of our file: 2023-12-20 09:49:54.000
+2024-01-21 13:40:40.369   Installing the file.
+2024-01-21 13:40:40.439   Saved progress 2
+2024-01-21 13:40:40.541   Saved progress 3
+2024-01-21 13:40:40.650   Saved progress 4
+2024-01-21 13:40:40.758   Saved progress 6
+2024-01-21 13:40:40.867   Saved progress 7
+2024-01-21 13:40:40.986   Saved progress 9
+2024-01-21 13:40:41.094   Saved progress 10
+2024-01-21 13:40:41.195   Saved progress 12
+2024-01-21 13:40:41.306   Saved progress 14
+2024-01-21 13:40:41.416   Saved progress 17
+2024-01-21 13:40:41.526   Saved progress 18
+2024-01-21 13:40:41.635   Saved progress 19
+2024-01-21 13:40:41.724   Successfully installed the file.
+2024-01-21 13:40:41.724   -- File entry --
+2024-01-21 13:40:41.725   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\avdevice-58.dll
+2024-01-21 13:40:41.725   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:41.725   Installing the file.
+2024-01-21 13:40:41.740   Saved progress 20
+2024-01-21 13:40:41.777   Successfully installed the file.
+2024-01-21 13:40:41.777   -- File entry --
+2024-01-21 13:40:41.777   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\avfilter-7.dll
+2024-01-21 13:40:41.777   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:41.777   Installing the file.
+2024-01-21 13:40:41.865   Saved progress 22
+2024-01-21 13:40:41.972   Saved progress 24
+2024-01-21 13:40:42.035   Successfully installed the file.
+2024-01-21 13:40:42.035   -- File entry --
+2024-01-21 13:40:42.035   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\avformat-58.dll
+2024-01-21 13:40:42.036   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:42.036   Installing the file.
+2024-01-21 13:40:42.084   Saved progress 25
+2024-01-21 13:40:42.188   Failed to save progress 27
+2024-01-21 13:40:42.237   Successfully installed the file.
+2024-01-21 13:40:42.237   -- File entry --
+2024-01-21 13:40:42.237   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\avutil-56.dll
+2024-01-21 13:40:42.237   Time stamp of our file: 2023-12-20 09:49:50.000
+2024-01-21 13:40:42.237   Installing the file.
+2024-01-21 13:40:42.259   Successfully installed the file.
+2024-01-21 13:40:42.259   -- File entry --
+2024-01-21 13:40:42.259   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\D3Dcompiler_47.dll
+2024-01-21 13:40:42.259   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:42.259   Installing the file.
+2024-01-21 13:40:42.298   Failed to save progress 28
+2024-01-21 13:40:42.404   Saved progress 29
+2024-01-21 13:40:42.414   Successfully installed the file.
+2024-01-21 13:40:42.414   -- File entry --
+2024-01-21 13:40:42.415   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\dbghelp.dll
+2024-01-21 13:40:42.415   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.415   Installing the file.
+2024-01-21 13:40:42.460   Successfully installed the file.
+2024-01-21 13:40:42.460   -- File entry --
+2024-01-21 13:40:42.460   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\efs.dll
+2024-01-21 13:40:42.460   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.460   Installing the file.
+2024-01-21 13:40:42.465   Successfully installed the file.
+2024-01-21 13:40:42.465   -- File entry --
+2024-01-21 13:40:42.465   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\experience.exe
+2024-01-21 13:40:42.465   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.465   Installing the file.
+2024-01-21 13:40:42.477   Successfully installed the file.
+2024-01-21 13:40:42.477   -- File entry --
+2024-01-21 13:40:42.477   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\fvformatsupport.dll
+2024-01-21 13:40:42.477   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.477   Installing the file.
+2024-01-21 13:40:42.481   Successfully installed the file.
+2024-01-21 13:40:42.481   -- File entry --
+2024-01-21 13:40:42.481   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\ikernel.dll
+2024-01-21 13:40:42.481   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.482   Installing the file.
+2024-01-21 13:40:42.499   Successfully installed the file.
+2024-01-21 13:40:42.499   -- File entry --
+2024-01-21 13:40:42.499   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\libcurl.dll
+2024-01-21 13:40:42.500   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.500   Installing the file.
+2024-01-21 13:40:42.514   Saved progress 30
+2024-01-21 13:40:42.518   Successfully installed the file.
+2024-01-21 13:40:42.518   -- File entry --
+2024-01-21 13:40:42.518   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\libeay32.dll
+2024-01-21 13:40:42.519   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.519   Installing the file.
+2024-01-21 13:40:42.586   Successfully installed the file.
+2024-01-21 13:40:42.586   -- File entry --
+2024-01-21 13:40:42.586   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\libEGL.dll
+2024-01-21 13:40:42.586   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.586   Installing the file.
+2024-01-21 13:40:42.588   Successfully installed the file.
+2024-01-21 13:40:42.588   -- File entry --
+2024-01-21 13:40:42.588   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\libGLESV2.dll
+2024-01-21 13:40:42.588   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.588   Installing the file.
+2024-01-21 13:40:42.620   Saved progress 31
+2024-01-21 13:40:42.662   Successfully installed the file.
+2024-01-21 13:40:42.662   -- File entry --
+2024-01-21 13:40:42.662   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\msvcp120.dll
+2024-01-21 13:40:42.662   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.662   Installing the file.
+2024-01-21 13:40:42.681   Successfully installed the file.
+2024-01-21 13:40:42.682   -- File entry --
+2024-01-21 13:40:42.682   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\msvcr120.dll
+2024-01-21 13:40:42.682   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.682   Installing the file.
+2024-01-21 13:40:42.720   Successfully installed the file.
+2024-01-21 13:40:42.720   -- File entry --
+2024-01-21 13:40:42.720   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\msvcrt.dll
+2024-01-21 13:40:42.720   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:42.720   Installing the file.
+2024-01-21 13:40:42.729   Failed to save progress 33
+2024-01-21 13:40:42.753   Successfully installed the file.
+2024-01-21 13:40:42.753   -- File entry --
+2024-01-21 13:40:42.753   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\opengl32sw.dll
+2024-01-21 13:40:42.753   Time stamp of our file: 2023-12-20 09:49:54.000
+2024-01-21 13:40:42.753   Installing the file.
+2024-01-21 13:40:42.839   Failed to save progress 34
+2024-01-21 13:40:42.950   Saved progress 36
+2024-01-21 13:40:43.057   Failed to save progress 38
+2024-01-21 13:40:43.167   Saved progress 40
+2024-01-21 13:40:43.233   Successfully installed the file.
+2024-01-21 13:40:43.233   -- File entry --
+2024-01-21 13:40:43.233   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\paraconf.ini
+2024-01-21 13:40:43.233   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:43.233   Installing the file.
+2024-01-21 13:40:43.235   Successfully installed the file.
+2024-01-21 13:40:43.235   -- File entry --
+2024-01-21 13:40:43.235   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pas.cnf
+2024-01-21 13:40:43.235   Time stamp of our file: 2023-12-20 09:49:52.000
+2024-01-21 13:40:43.235   Installing the file.
+2024-01-21 13:40:43.236   Successfully installed the file.
+2024-01-21 13:40:43.236   -- File entry --
+2024-01-21 13:40:43.236   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\postproc-55.dll
+2024-01-21 13:40:43.237   Time stamp of our file: 2023-12-20 09:49:54.000
+2024-01-21 13:40:43.237   Installing the file.
+2024-01-21 13:40:43.242   Successfully installed the file.
+2024-01-21 13:40:43.242   -- File entry --
+2024-01-21 13:40:43.242   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\PowerDataRecovery.exe
+2024-01-21 13:40:43.242   Time stamp of our file: 2023-12-21 16:54:58.000
+2024-01-21 13:40:43.242   Installing the file.
+2024-01-21 13:40:43.275   Saved progress 41
+2024-01-21 13:40:43.385   Saved progress 42
+2024-01-21 13:40:43.505   Saved progress 43
+2024-01-21 13:40:43.571   Successfully installed the file.
+2024-01-21 13:40:43.571   -- File entry --
+2024-01-21 13:40:43.571   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\PowerDataRecovery.exe.mfh
+2024-01-21 13:40:43.571   Time stamp of our file: 2023-12-21 16:54:58.000
+2024-01-21 13:40:43.571   Installing the file.
+2024-01-21 13:40:43.573   Successfully installed the file.
+2024-01-21 13:40:43.573   -- File entry --
+2024-01-21 13:40:43.573   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\PowerDataRecoveryCore.dll
+2024-01-21 13:40:43.573   Time stamp of our file: 2023-12-20 09:49:54.000
+2024-01-21 13:40:43.573   Installing the file.
+2024-01-21 13:40:43.611   Successfully installed the file.
+2024-01-21 13:40:43.611   -- File entry --
+2024-01-21 13:40:43.611   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\qpdf.dll
+2024-01-21 13:40:43.611   Time stamp of our file: 2023-12-20 09:49:54.000
+2024-01-21 13:40:43.611   Installing the file.
+2024-01-21 13:40:43.617   Saved progress 45
+2024-01-21 13:40:43.726   Saved progress 46
+2024-01-21 13:40:43.758   Successfully installed the file.
+2024-01-21 13:40:43.758   -- File entry --
+2024-01-21 13:40:43.758   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Core.dll
+2024-01-21 13:40:43.758   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:43.758   Installing the file.
+2024-01-21 13:40:43.832   Saved progress 47
+2024-01-21 13:40:43.934   Successfully installed the file.
+2024-01-21 13:40:43.934   -- File entry --
+2024-01-21 13:40:43.934   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Gui.dll
+2024-01-21 13:40:43.934   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:43.934   Installing the file.
+2024-01-21 13:40:43.939   Saved progress 48
+2024-01-21 13:40:44.050   Saved progress 49
+2024-01-21 13:40:44.123   Successfully installed the file.
+2024-01-21 13:40:44.123   -- File entry --
+2024-01-21 13:40:44.123   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Network.dll
+2024-01-21 13:40:44.123   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.123   Installing the file.
+2024-01-21 13:40:44.155   Saved progress 51
+2024-01-21 13:40:44.172   Successfully installed the file.
+2024-01-21 13:40:44.172   -- File entry --
+2024-01-21 13:40:44.172   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Positioning.dll
+2024-01-21 13:40:44.172   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.172   Installing the file.
+2024-01-21 13:40:44.186   Successfully installed the file.
+2024-01-21 13:40:44.186   -- File entry --
+2024-01-21 13:40:44.186   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Qml.dll
+2024-01-21 13:40:44.186   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.187   Installing the file.
+2024-01-21 13:40:44.265   Saved progress 52
+2024-01-21 13:40:44.300   Successfully installed the file.
+2024-01-21 13:40:44.300   -- File entry --
+2024-01-21 13:40:44.300   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Quick.dll
+2024-01-21 13:40:44.300   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.300   Installing the file.
+2024-01-21 13:40:44.371   Saved progress 54
+2024-01-21 13:40:44.390   Successfully installed the file.
+2024-01-21 13:40:44.390   -- File entry --
+2024-01-21 13:40:44.390   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5SerialPort.dll
+2024-01-21 13:40:44.391   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.391   Installing the file.
+2024-01-21 13:40:44.394   Successfully installed the file.
+2024-01-21 13:40:44.394   -- File entry --
+2024-01-21 13:40:44.394   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Svg.dll
+2024-01-21 13:40:44.394   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.394   Installing the file.
+2024-01-21 13:40:44.404   Successfully installed the file.
+2024-01-21 13:40:44.404   -- File entry --
+2024-01-21 13:40:44.404   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5WebChannel.dll
+2024-01-21 13:40:44.404   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:44.404   Installing the file.
+2024-01-21 13:40:44.409   Successfully installed the file.
+2024-01-21 13:40:44.409   -- File entry --
+2024-01-21 13:40:44.409   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5WebEngineCore.dll
+2024-01-21 13:40:44.409   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:44.409   Installing the file.
+2024-01-21 13:40:44.478   Saved progress 55
+2024-01-21 13:40:44.586   Saved progress 57
+2024-01-21 13:40:44.700   Saved progress 58
+2024-01-21 13:40:44.806   Saved progress 59
+2024-01-21 13:40:44.916   Saved progress 61
+2024-01-21 13:40:45.039   Saved progress 62
+2024-01-21 13:40:45.145   Saved progress 64
+2024-01-21 13:40:45.254   Saved progress 65
+2024-01-21 13:40:45.363   Saved progress 66
+2024-01-21 13:40:45.470   Saved progress 68
+2024-01-21 13:40:45.580   Saved progress 69
+2024-01-21 13:40:45.688   Saved progress 71
+2024-01-21 13:40:45.798   Saved progress 72
+2024-01-21 13:40:45.904   Saved progress 73
+2024-01-21 13:40:46.013   Saved progress 74
+2024-01-21 13:40:46.118   Saved progress 76
+2024-01-21 13:40:46.225   Saved progress 78
+2024-01-21 13:40:46.349   Saved progress 79
+2024-01-21 13:40:46.425   Successfully installed the file.
+2024-01-21 13:40:46.425   -- File entry --
+2024-01-21 13:40:46.425   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5WebEngineWidgets.dll
+2024-01-21 13:40:46.425   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.425   Installing the file.
+2024-01-21 13:40:46.433   Successfully installed the file.
+2024-01-21 13:40:46.433   -- File entry --
+2024-01-21 13:40:46.433   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\Qt5Widgets.dll
+2024-01-21 13:40:46.433   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.433   Installing the file.
+2024-01-21 13:40:46.456   Saved progress 81
+2024-01-21 13:40:46.569   Saved progress 82
+2024-01-21 13:40:46.657   Successfully installed the file.
+2024-01-21 13:40:46.657   -- File entry --
+2024-01-21 13:40:46.657   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\QtWebEngineProcess.exe
+2024-01-21 13:40:46.658   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.658   Installing the file.
+2024-01-21 13:40:46.660   Successfully installed the file.
+2024-01-21 13:40:46.660   -- File entry --
+2024-01-21 13:40:46.660   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\RawObject.dll
+2024-01-21 13:40:46.660   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.660   Installing the file.
+2024-01-21 13:40:46.672   Successfully installed the file.
+2024-01-21 13:40:46.672   -- File entry --
+2024-01-21 13:40:46.672   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\SDL2.dll
+2024-01-21 13:40:46.672   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.672   Installing the file.
+2024-01-21 13:40:46.677   Saved progress 83
+2024-01-21 13:40:46.713   Successfully installed the file.
+2024-01-21 13:40:46.713   -- File entry --
+2024-01-21 13:40:46.713   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\ssleay32.dll
+2024-01-21 13:40:46.713   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.713   Installing the file.
+2024-01-21 13:40:46.732   Successfully installed the file.
+2024-01-21 13:40:46.732   -- File entry --
+2024-01-21 13:40:46.733   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\swresample-3.dll
+2024-01-21 13:40:46.733   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.733   Installing the file.
+2024-01-21 13:40:46.750   Successfully installed the file.
+2024-01-21 13:40:46.750   -- File entry --
+2024-01-21 13:40:46.750   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\swscale-5.dll
+2024-01-21 13:40:46.751   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.751   Installing the file.
+2024-01-21 13:40:46.768   Successfully installed the file.
+2024-01-21 13:40:46.768   -- File entry --
+2024-01-21 13:40:46.768   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\WebView.dll
+2024-01-21 13:40:46.768   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.768   Installing the file.
+2024-01-21 13:40:46.770   Successfully installed the file.
+2024-01-21 13:40:46.770   -- File entry --
+2024-01-21 13:40:46.770   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\bearer\qgenericbearer.dll
+2024-01-21 13:40:46.770   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.770   Installing the file.
+2024-01-21 13:40:46.770   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\bearer
+2024-01-21 13:40:46.773   Successfully installed the file.
+2024-01-21 13:40:46.773   -- File entry --
+2024-01-21 13:40:46.773   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\bearer\qnativewifibearer.dll
+2024-01-21 13:40:46.774   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.774   Installing the file.
+2024-01-21 13:40:46.776   Successfully installed the file.
+2024-01-21 13:40:46.776   -- File entry --
+2024-01-21 13:40:46.776   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\iconengines\qsvgicon.dll
+2024-01-21 13:40:46.776   Time stamp of our file: 2023-12-20 09:49:56.000
+2024-01-21 13:40:46.776   Installing the file.
+2024-01-21 13:40:46.776   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\iconengines
+2024-01-21 13:40:46.779   Successfully installed the file.
+2024-01-21 13:40:46.779   -- File entry --
+2024-01-21 13:40:46.779   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qgif.dll
+2024-01-21 13:40:46.781   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.781   Installing the file.
+2024-01-21 13:40:46.782   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats
+2024-01-21 13:40:46.785   Saved progress 84
+2024-01-21 13:40:46.786   Successfully installed the file.
+2024-01-21 13:40:46.786   -- File entry --
+2024-01-21 13:40:46.786   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qicns.dll
+2024-01-21 13:40:46.786   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.786   Installing the file.
+2024-01-21 13:40:46.789   Successfully installed the file.
+2024-01-21 13:40:46.789   -- File entry --
+2024-01-21 13:40:46.789   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qico.dll
+2024-01-21 13:40:46.790   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.790   Installing the file.
+2024-01-21 13:40:46.792   Successfully installed the file.
+2024-01-21 13:40:46.792   -- File entry --
+2024-01-21 13:40:46.792   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qjpeg.dll
+2024-01-21 13:40:46.792   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.792   Installing the file.
+2024-01-21 13:40:46.803   Successfully installed the file.
+2024-01-21 13:40:46.803   -- File entry --
+2024-01-21 13:40:46.803   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qsvg.dll
+2024-01-21 13:40:46.803   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.803   Installing the file.
+2024-01-21 13:40:46.806   Successfully installed the file.
+2024-01-21 13:40:46.806   -- File entry --
+2024-01-21 13:40:46.806   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qtga.dll
+2024-01-21 13:40:46.806   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.806   Installing the file.
+2024-01-21 13:40:46.809   Successfully installed the file.
+2024-01-21 13:40:46.809   -- File entry --
+2024-01-21 13:40:46.809   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qtiff.dll
+2024-01-21 13:40:46.809   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.809   Installing the file.
+2024-01-21 13:40:46.821   Successfully installed the file.
+2024-01-21 13:40:46.821   -- File entry --
+2024-01-21 13:40:46.821   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qwbmp.dll
+2024-01-21 13:40:46.822   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.822   Installing the file.
+2024-01-21 13:40:46.824   Successfully installed the file.
+2024-01-21 13:40:46.824   -- File entry --
+2024-01-21 13:40:46.824   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\imageformats\qwebp.dll
+2024-01-21 13:40:46.824   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.824   Installing the file.
+2024-01-21 13:40:46.836   Successfully installed the file.
+2024-01-21 13:40:46.836   -- File entry --
+2024-01-21 13:40:46.836   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\platforms\qwindows.dll
+2024-01-21 13:40:46.836   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:46.836   Installing the file.
+2024-01-21 13:40:46.836   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\platforms
+2024-01-21 13:40:46.893   Saved progress 85
+2024-01-21 13:40:46.894   Successfully installed the file.
+2024-01-21 13:40:46.894   -- File entry --
+2024-01-21 13:40:46.894   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\position\qtposition_geoclue.dll
+2024-01-21 13:40:46.895   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.895   Installing the file.
+2024-01-21 13:40:46.895   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\position
+2024-01-21 13:40:46.902   Successfully installed the file.
+2024-01-21 13:40:46.902   -- File entry --
+2024-01-21 13:40:46.902   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\position\qtposition_positionpoll.dll
+2024-01-21 13:40:46.903   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.903   Installing the file.
+2024-01-21 13:40:46.906   Successfully installed the file.
+2024-01-21 13:40:46.906   -- File entry --
+2024-01-21 13:40:46.906   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\position\qtposition_serialnmea.dll
+2024-01-21 13:40:46.906   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:46.906   Installing the file.
+2024-01-21 13:40:46.909   Successfully installed the file.
+2024-01-21 13:40:46.910   -- File entry --
+2024-01-21 13:40:46.910   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\resources\icudtl.dat
+2024-01-21 13:40:46.910   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:46.910   Installing the file.
+2024-01-21 13:40:46.910   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\resources
+2024-01-21 13:40:47.002   Saved progress 86
+2024-01-21 13:40:47.110   Saved progress 87
+2024-01-21 13:40:47.217   Saved progress 89
+2024-01-21 13:40:47.272   Successfully installed the file.
+2024-01-21 13:40:47.272   -- File entry --
+2024-01-21 13:40:47.272   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\resources\qtwebengine_resources.pak
+2024-01-21 13:40:47.272   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.272   Installing the file.
+2024-01-21 13:40:47.326   Saved progress 91
+2024-01-21 13:40:47.348   Successfully installed the file.
+2024-01-21 13:40:47.349   -- File entry --
+2024-01-21 13:40:47.349   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\resources\qtwebengine_resources_100p.pak
+2024-01-21 13:40:47.349   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.349   Installing the file.
+2024-01-21 13:40:47.368   Successfully installed the file.
+2024-01-21 13:40:47.368   -- File entry --
+2024-01-21 13:40:47.368   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\resources\qtwebengine_resources_200p.pak
+2024-01-21 13:40:47.368   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.368   Installing the file.
+2024-01-21 13:40:47.382   Successfully installed the file.
+2024-01-21 13:40:47.382   -- File entry --
+2024-01-21 13:40:47.383   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_ca.qm
+2024-01-21 13:40:47.383   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.383   Installing the file.
+2024-01-21 13:40:47.383   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations
+2024-01-21 13:40:47.390   Successfully installed the file.
+2024-01-21 13:40:47.390   -- File entry --
+2024-01-21 13:40:47.390   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_cs.qm
+2024-01-21 13:40:47.390   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.390   Installing the file.
+2024-01-21 13:40:47.396   Successfully installed the file.
+2024-01-21 13:40:47.396   -- File entry --
+2024-01-21 13:40:47.396   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_de.qm
+2024-01-21 13:40:47.398   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.398   Installing the file.
+2024-01-21 13:40:47.404   Successfully installed the file.
+2024-01-21 13:40:47.404   -- File entry --
+2024-01-21 13:40:47.405   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_en.qm
+2024-01-21 13:40:47.405   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.405   Installing the file.
+2024-01-21 13:40:47.406   Successfully installed the file.
+2024-01-21 13:40:47.406   -- File entry --
+2024-01-21 13:40:47.406   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_es.qm
+2024-01-21 13:40:47.406   Time stamp of our file: 2023-12-20 09:49:58.000
+2024-01-21 13:40:47.406   Installing the file.
+2024-01-21 13:40:47.411   Successfully installed the file.
+2024-01-21 13:40:47.412   -- File entry --
+2024-01-21 13:40:47.412   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_fi.qm
+2024-01-21 13:40:47.412   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.412   Installing the file.
+2024-01-21 13:40:47.420   Successfully installed the file.
+2024-01-21 13:40:47.420   -- File entry --
+2024-01-21 13:40:47.421   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_fr.qm
+2024-01-21 13:40:47.421   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.421   Installing the file.
+2024-01-21 13:40:47.427   Successfully installed the file.
+2024-01-21 13:40:47.427   -- File entry --
+2024-01-21 13:40:47.427   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_gd.qm
+2024-01-21 13:40:47.427   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.427   Installing the file.
+2024-01-21 13:40:47.433   Saved progress 92
+2024-01-21 13:40:47.434   Successfully installed the file.
+2024-01-21 13:40:47.434   -- File entry --
+2024-01-21 13:40:47.434   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_he.qm
+2024-01-21 13:40:47.435   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.435   Installing the file.
+2024-01-21 13:40:47.439   Successfully installed the file.
+2024-01-21 13:40:47.439   -- File entry --
+2024-01-21 13:40:47.439   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_hu.qm
+2024-01-21 13:40:47.439   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.439   Installing the file.
+2024-01-21 13:40:47.445   Successfully installed the file.
+2024-01-21 13:40:47.445   -- File entry --
+2024-01-21 13:40:47.445   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_it.qm
+2024-01-21 13:40:47.445   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.445   Installing the file.
+2024-01-21 13:40:47.451   Successfully installed the file.
+2024-01-21 13:40:47.452   -- File entry --
+2024-01-21 13:40:47.452   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_ja.qm
+2024-01-21 13:40:47.452   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.452   Installing the file.
+2024-01-21 13:40:47.457   Successfully installed the file.
+2024-01-21 13:40:47.458   -- File entry --
+2024-01-21 13:40:47.458   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_ko.qm
+2024-01-21 13:40:47.458   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.458   Installing the file.
+2024-01-21 13:40:47.465   Successfully installed the file.
+2024-01-21 13:40:47.465   -- File entry --
+2024-01-21 13:40:47.465   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_lv.qm
+2024-01-21 13:40:47.466   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.466   Installing the file.
+2024-01-21 13:40:47.471   Successfully installed the file.
+2024-01-21 13:40:47.471   -- File entry --
+2024-01-21 13:40:47.471   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_pl.qm
+2024-01-21 13:40:47.472   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.472   Installing the file.
+2024-01-21 13:40:47.477   Successfully installed the file.
+2024-01-21 13:40:47.477   -- File entry --
+2024-01-21 13:40:47.477   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_ru.qm
+2024-01-21 13:40:47.477   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.477   Installing the file.
+2024-01-21 13:40:47.485   Successfully installed the file.
+2024-01-21 13:40:47.485   -- File entry --
+2024-01-21 13:40:47.485   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_sk.qm
+2024-01-21 13:40:47.485   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.485   Installing the file.
+2024-01-21 13:40:47.491   Successfully installed the file.
+2024-01-21 13:40:47.491   -- File entry --
+2024-01-21 13:40:47.491   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qt_uk.qm
+2024-01-21 13:40:47.491   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.491   Installing the file.
+2024-01-21 13:40:47.502   Successfully installed the file.
+2024-01-21 13:40:47.502   -- File entry --
+2024-01-21 13:40:47.502   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\am.pak
+2024-01-21 13:40:47.503   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.503   Installing the file.
+2024-01-21 13:40:47.503   Creating directory: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales
+2024-01-21 13:40:47.516   Successfully installed the file.
+2024-01-21 13:40:47.517   -- File entry --
+2024-01-21 13:40:47.517   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ar.pak
+2024-01-21 13:40:47.517   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.517   Installing the file.
+2024-01-21 13:40:47.527   Successfully installed the file.
+2024-01-21 13:40:47.527   -- File entry --
+2024-01-21 13:40:47.527   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\bg.pak
+2024-01-21 13:40:47.527   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.527   Installing the file.
+2024-01-21 13:40:47.538   Successfully installed the file.
+2024-01-21 13:40:47.539   Saved progress 93
+2024-01-21 13:40:47.539   -- File entry --
+2024-01-21 13:40:47.539   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\bn.pak
+2024-01-21 13:40:47.539   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.539   Installing the file.
+2024-01-21 13:40:47.551   Successfully installed the file.
+2024-01-21 13:40:47.551   -- File entry --
+2024-01-21 13:40:47.551   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ca.pak
+2024-01-21 13:40:47.552   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.552   Installing the file.
+2024-01-21 13:40:47.559   Successfully installed the file.
+2024-01-21 13:40:47.559   -- File entry --
+2024-01-21 13:40:47.559   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\cs.pak
+2024-01-21 13:40:47.559   Time stamp of our file: 2023-12-20 09:50:00.000
+2024-01-21 13:40:47.559   Installing the file.
+2024-01-21 13:40:47.568   Successfully installed the file.
+2024-01-21 13:40:47.568   -- File entry --
+2024-01-21 13:40:47.568   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\da.pak
+2024-01-21 13:40:47.568   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.569   Installing the file.
+2024-01-21 13:40:47.576   Successfully installed the file.
+2024-01-21 13:40:47.576   -- File entry --
+2024-01-21 13:40:47.576   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\de.pak
+2024-01-21 13:40:47.577   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.577   Installing the file.
+2024-01-21 13:40:47.586   Successfully installed the file.
+2024-01-21 13:40:47.586   -- File entry --
+2024-01-21 13:40:47.586   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\el.pak
+2024-01-21 13:40:47.587   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.587   Installing the file.
+2024-01-21 13:40:47.597   Successfully installed the file.
+2024-01-21 13:40:47.598   -- File entry --
+2024-01-21 13:40:47.598   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\en-GB.pak
+2024-01-21 13:40:47.598   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.598   Installing the file.
+2024-01-21 13:40:47.604   Successfully installed the file.
+2024-01-21 13:40:47.605   -- File entry --
+2024-01-21 13:40:47.605   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\en-US.pak
+2024-01-21 13:40:47.605   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.605   Installing the file.
+2024-01-21 13:40:47.609   Successfully installed the file.
+2024-01-21 13:40:47.609   -- File entry --
+2024-01-21 13:40:47.609   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\es-419.pak
+2024-01-21 13:40:47.609   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.609   Installing the file.
+2024-01-21 13:40:47.620   Successfully installed the file.
+2024-01-21 13:40:47.620   -- File entry --
+2024-01-21 13:40:47.620   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\es.pak
+2024-01-21 13:40:47.621   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.621   Installing the file.
+2024-01-21 13:40:47.627   Successfully installed the file.
+2024-01-21 13:40:47.627   -- File entry --
+2024-01-21 13:40:47.627   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\et.pak
+2024-01-21 13:40:47.627   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.627   Installing the file.
+2024-01-21 13:40:47.636   Successfully installed the file.
+2024-01-21 13:40:47.636   -- File entry --
+2024-01-21 13:40:47.636   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\fa.pak
+2024-01-21 13:40:47.636   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.636   Installing the file.
+2024-01-21 13:40:47.647   Successfully installed the file.
+2024-01-21 13:40:47.648   Saved progress 94
+2024-01-21 13:40:47.648   -- File entry --
+2024-01-21 13:40:47.648   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\fi.pak
+2024-01-21 13:40:47.648   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.648   Installing the file.
+2024-01-21 13:40:47.657   Successfully installed the file.
+2024-01-21 13:40:47.657   -- File entry --
+2024-01-21 13:40:47.657   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\fil.pak
+2024-01-21 13:40:47.657   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.657   Installing the file.
+2024-01-21 13:40:47.667   Successfully installed the file.
+2024-01-21 13:40:47.667   -- File entry --
+2024-01-21 13:40:47.667   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\fr.pak
+2024-01-21 13:40:47.667   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.667   Installing the file.
+2024-01-21 13:40:47.676   Successfully installed the file.
+2024-01-21 13:40:47.676   -- File entry --
+2024-01-21 13:40:47.676   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\gu.pak
+2024-01-21 13:40:47.676   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.676   Installing the file.
+2024-01-21 13:40:47.688   Successfully installed the file.
+2024-01-21 13:40:47.689   -- File entry --
+2024-01-21 13:40:47.689   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\he.pak
+2024-01-21 13:40:47.689   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.689   Installing the file.
+2024-01-21 13:40:47.698   Successfully installed the file.
+2024-01-21 13:40:47.698   -- File entry --
+2024-01-21 13:40:47.698   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\hi.pak
+2024-01-21 13:40:47.699   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.699   Installing the file.
+2024-01-21 13:40:47.709   Successfully installed the file.
+2024-01-21 13:40:47.710   -- File entry --
+2024-01-21 13:40:47.710   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\hr.pak
+2024-01-21 13:40:47.710   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.710   Installing the file.
+2024-01-21 13:40:47.719   Successfully installed the file.
+2024-01-21 13:40:47.720   -- File entry --
+2024-01-21 13:40:47.720   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\hu.pak
+2024-01-21 13:40:47.720   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.720   Installing the file.
+2024-01-21 13:40:47.730   Successfully installed the file.
+2024-01-21 13:40:47.730   -- File entry --
+2024-01-21 13:40:47.730   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\id.pak
+2024-01-21 13:40:47.731   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.731   Installing the file.
+2024-01-21 13:40:47.741   Successfully installed the file.
+2024-01-21 13:40:47.741   -- File entry --
+2024-01-21 13:40:47.741   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\it.pak
+2024-01-21 13:40:47.741   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.741   Installing the file.
+2024-01-21 13:40:47.752   Successfully installed the file.
+2024-01-21 13:40:47.752   -- File entry --
+2024-01-21 13:40:47.752   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ja.pak
+2024-01-21 13:40:47.752   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.752   Installing the file.
+2024-01-21 13:40:47.760   Successfully installed the file.
+2024-01-21 13:40:47.760   -- File entry --
+2024-01-21 13:40:47.760   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\kn.pak
+2024-01-21 13:40:47.761   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.761   Installing the file.
+2024-01-21 13:40:47.771   Saved progress 96
+2024-01-21 13:40:47.782   Successfully installed the file.
+2024-01-21 13:40:47.782   -- File entry --
+2024-01-21 13:40:47.782   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ko.pak
+2024-01-21 13:40:47.783   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.783   Installing the file.
+2024-01-21 13:40:47.791   Successfully installed the file.
+2024-01-21 13:40:47.792   -- File entry --
+2024-01-21 13:40:47.792   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\lt.pak
+2024-01-21 13:40:47.792   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.792   Installing the file.
+2024-01-21 13:40:47.802   Successfully installed the file.
+2024-01-21 13:40:47.802   -- File entry --
+2024-01-21 13:40:47.802   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\lv.pak
+2024-01-21 13:40:47.803   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.803   Installing the file.
+2024-01-21 13:40:47.811   Successfully installed the file.
+2024-01-21 13:40:47.811   -- File entry --
+2024-01-21 13:40:47.811   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ml.pak
+2024-01-21 13:40:47.811   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.811   Installing the file.
+2024-01-21 13:40:47.824   Successfully installed the file.
+2024-01-21 13:40:47.824   -- File entry --
+2024-01-21 13:40:47.825   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\mr.pak
+2024-01-21 13:40:47.825   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.825   Installing the file.
+2024-01-21 13:40:47.837   Successfully installed the file.
+2024-01-21 13:40:47.837   -- File entry --
+2024-01-21 13:40:47.837   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ms.pak
+2024-01-21 13:40:47.837   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.837   Installing the file.
+2024-01-21 13:40:47.845   Successfully installed the file.
+2024-01-21 13:40:47.845   -- File entry --
+2024-01-21 13:40:47.845   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\nb.pak
+2024-01-21 13:40:47.846   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.846   Installing the file.
+2024-01-21 13:40:47.855   Successfully installed the file.
+2024-01-21 13:40:47.855   -- File entry --
+2024-01-21 13:40:47.855   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\nl.pak
+2024-01-21 13:40:47.856   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.856   Installing the file.
+2024-01-21 13:40:47.865   Successfully installed the file.
+2024-01-21 13:40:47.865   -- File entry --
+2024-01-21 13:40:47.865   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\pl.pak
+2024-01-21 13:40:47.866   Time stamp of our file: 2023-12-20 09:50:02.000
+2024-01-21 13:40:47.866   Installing the file.
+2024-01-21 13:40:47.872   Saved progress 97
+2024-01-21 13:40:47.875   Successfully installed the file.
+2024-01-21 13:40:47.875   -- File entry --
+2024-01-21 13:40:47.875   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\pt-BR.pak
+2024-01-21 13:40:47.875   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.875   Installing the file.
+2024-01-21 13:40:47.883   Successfully installed the file.
+2024-01-21 13:40:47.883   -- File entry --
+2024-01-21 13:40:47.884   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\pt-PT.pak
+2024-01-21 13:40:47.884   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.884   Installing the file.
+2024-01-21 13:40:47.893   Successfully installed the file.
+2024-01-21 13:40:47.893   -- File entry --
+2024-01-21 13:40:47.893   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ro.pak
+2024-01-21 13:40:47.893   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.893   Installing the file.
+2024-01-21 13:40:47.902   Successfully installed the file.
+2024-01-21 13:40:47.902   -- File entry --
+2024-01-21 13:40:47.902   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ru.pak
+2024-01-21 13:40:47.902   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.902   Installing the file.
+2024-01-21 13:40:47.912   Successfully installed the file.
+2024-01-21 13:40:47.912   -- File entry --
+2024-01-21 13:40:47.912   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\sk.pak
+2024-01-21 13:40:47.912   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.912   Installing the file.
+2024-01-21 13:40:47.923   Successfully installed the file.
+2024-01-21 13:40:47.923   -- File entry --
+2024-01-21 13:40:47.923   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\sl.pak
+2024-01-21 13:40:47.923   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.923   Installing the file.
+2024-01-21 13:40:47.932   Successfully installed the file.
+2024-01-21 13:40:47.932   -- File entry --
+2024-01-21 13:40:47.932   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\sr.pak
+2024-01-21 13:40:47.932   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.932   Installing the file.
+2024-01-21 13:40:47.940   Successfully installed the file.
+2024-01-21 13:40:47.940   -- File entry --
+2024-01-21 13:40:47.940   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\sv.pak
+2024-01-21 13:40:47.940   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.940   Installing the file.
+2024-01-21 13:40:47.949   Successfully installed the file.
+2024-01-21 13:40:47.950   -- File entry --
+2024-01-21 13:40:47.950   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\sw.pak
+2024-01-21 13:40:47.950   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.950   Installing the file.
+2024-01-21 13:40:47.958   Successfully installed the file.
+2024-01-21 13:40:47.958   -- File entry --
+2024-01-21 13:40:47.958   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\ta.pak
+2024-01-21 13:40:47.958   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.958   Installing the file.
+2024-01-21 13:40:47.969   Successfully installed the file.
+2024-01-21 13:40:47.969   -- File entry --
+2024-01-21 13:40:47.969   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\te.pak
+2024-01-21 13:40:47.970   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.970   Installing the file.
+2024-01-21 13:40:47.979   Successfully installed the file.
+2024-01-21 13:40:47.979   -- File entry --
+2024-01-21 13:40:47.979   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\th.pak
+2024-01-21 13:40:47.981   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.981   Installing the file.
+2024-01-21 13:40:47.985   Saved progress 99
+2024-01-21 13:40:47.992   Successfully installed the file.
+2024-01-21 13:40:47.992   -- File entry --
+2024-01-21 13:40:47.992   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\tr.pak
+2024-01-21 13:40:47.992   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:47.992   Installing the file.
+2024-01-21 13:40:48.001   Successfully installed the file.
+2024-01-21 13:40:48.001   -- File entry --
+2024-01-21 13:40:48.001   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\uk.pak
+2024-01-21 13:40:48.002   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:48.002   Installing the file.
+2024-01-21 13:40:48.011   Successfully installed the file.
+2024-01-21 13:40:48.011   -- File entry --
+2024-01-21 13:40:48.011   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\vi.pak
+2024-01-21 13:40:48.011   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:48.011   Installing the file.
+2024-01-21 13:40:48.020   Successfully installed the file.
+2024-01-21 13:40:48.020   -- File entry --
+2024-01-21 13:40:48.020   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\zh-CN.pak
+2024-01-21 13:40:48.021   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:48.021   Installing the file.
+2024-01-21 13:40:48.027   Successfully installed the file.
+2024-01-21 13:40:48.027   -- File entry --
+2024-01-21 13:40:48.027   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\translations\qtwebengine_locales\zh-TW.pak
+2024-01-21 13:40:48.027   Time stamp of our file: 2023-12-20 09:50:04.000
+2024-01-21 13:40:48.027   Installing the file.
+2024-01-21 13:40:48.034   Successfully installed the file.
+2024-01-21 13:40:48.034   -- File entry --
+2024-01-21 13:40:48.034   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\PowerDataRecovery.exe.ini
+2024-01-21 13:40:48.034   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.034   Dest file exists.
+2024-01-21 13:40:48.034   Skipping due to "onlyifdoesntexist" flag.
+2024-01-21 13:40:48.034   -- File entry --
+2024-01-21 13:40:48.034   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_en.qm
+2024-01-21 13:40:48.035   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.035   Installing the file.
+2024-01-21 13:40:48.039   Successfully installed the file.
+2024-01-21 13:40:48.039   -- File entry --
+2024-01-21 13:40:48.039   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_de.qm
+2024-01-21 13:40:48.039   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.039   Installing the file.
+2024-01-21 13:40:48.042   Successfully installed the file.
+2024-01-21 13:40:48.042   -- File entry --
+2024-01-21 13:40:48.042   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_fr.qm
+2024-01-21 13:40:48.042   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.042   Installing the file.
+2024-01-21 13:40:48.045   Successfully installed the file.
+2024-01-21 13:40:48.045   -- File entry --
+2024-01-21 13:40:48.045   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_it.qm
+2024-01-21 13:40:48.046   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.046   Installing the file.
+2024-01-21 13:40:48.051   Successfully installed the file.
+2024-01-21 13:40:48.051   -- File entry --
+2024-01-21 13:40:48.052   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_ja.qm
+2024-01-21 13:40:48.052   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.052   Installing the file.
+2024-01-21 13:40:48.055   Successfully installed the file.
+2024-01-21 13:40:48.055   -- File entry --
+2024-01-21 13:40:48.055   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_ko.qm
+2024-01-21 13:40:48.055   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.055   Installing the file.
+2024-01-21 13:40:48.058   Successfully installed the file.
+2024-01-21 13:40:48.058   -- File entry --
+2024-01-21 13:40:48.058   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\pdr_es.qm
+2024-01-21 13:40:48.058   Time stamp of our file: 2023-12-20 09:51:40.000
+2024-01-21 13:40:48.058   Installing the file.
+2024-01-21 13:40:48.060   Successfully installed the file.
+2024-01-21 13:40:48.060   -- Icon entry --
+2024-01-21 13:40:48.060   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MiniTool Power Data Recovery\MiniTool Power Data Recovery 11.8.lnk
+2024-01-21 13:40:48.060   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MiniTool Power Data Recovery
+2024-01-21 13:40:48.066   Creating the icon.
+2024-01-21 13:40:48.103   Successfully created the icon.
+2024-01-21 13:40:48.108   Saved progress 100
+2024-01-21 13:40:48.108   -- Icon entry --
+2024-01-21 13:40:48.108   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MiniTool Power Data Recovery\MiniTool Power Data Recovery 11.8 en la Web.url
+2024-01-21 13:40:48.109   Creating the icon.
+2024-01-21 13:40:48.110   Successfully created the icon.
+2024-01-21 13:40:48.118   -- Icon entry --
+2024-01-21 13:40:48.119   Dest filename: C:\Users\Public\Desktop\MiniTool Power Data Recovery 11.8.lnk
+2024-01-21 13:40:48.119   Creating the icon.
+2024-01-21 13:40:48.123   Successfully created the icon.
+2024-01-21 13:40:48.128   -- INI entry --
+2024-01-21 13:40:48.128   Dest filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\lang.ini
+2024-01-21 13:40:48.128   Section: General
+2024-01-21 13:40:48.128   Entry: language
+2024-01-21 13:40:48.128   Value: 111
+2024-01-21 13:40:48.128   Updating the .INI file.
+2024-01-21 13:40:48.140   Successfully updated the .INI file.
+2024-01-21 13:40:48.141   -- Registry entry --
+2024-01-21 13:40:48.141   Key: HKEY_LOCAL_MACHINE\SOFTWARE\MiniTool Software Limited\MiniTool Power Data Recovery
+2024-01-21 13:40:48.141   Value name: IsFirstRun
+2024-01-21 13:40:48.141   Creating or opening the key.
+2024-01-21 13:40:48.141   Creating or setting the value.
+2024-01-21 13:40:48.141   Successfully created or set the value.
+2024-01-21 13:40:48.141   -- Registry entry --
+2024-01-21 13:40:48.141   Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+2024-01-21 13:40:48.141   Value name: experience.exe
+2024-01-21 13:40:48.141   Creating or opening the key.
+2024-01-21 13:40:48.141   Creating or setting the value.
+2024-01-21 13:40:48.142   Successfully created or set the value.
+2024-01-21 13:40:48.142   -- Registry entry --
+2024-01-21 13:40:48.142   Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+2024-01-21 13:40:48.142   Value name: PowerDataRecovery.exe
+2024-01-21 13:40:48.142   Creating or opening the key.
+2024-01-21 13:40:48.142   Creating or setting the value.
+2024-01-21 13:40:48.142   Successfully created or set the value.
+2024-01-21 13:40:48.152   Installation process succeeded.
+2024-01-21 13:40:48.155   -- Run entry --
+2024-01-21 13:40:48.155   Run as: Current user
+2024-01-21 13:40:48.155   Type: Exec
+2024-01-21 13:40:48.155   Filename: C:\Users\daniel\Desktop\blog\MiniToolPowerDataRecovery\experience.exe
+2024-01-21 13:40:48.155   Parameters: http://tracking.minitool.com/pdr/installation.php?mt_lang=es&mt_edition=free&mt_ver=118
+2024-01-21 13:40:48.243   Need to restart Windows? No
+2024-01-21 13:40:48.767   Deinitializing Setup.
+2024-01-21 13:40:48.791   Log closed.

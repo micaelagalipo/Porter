@@ -1,0 +1,267 @@
+=====================================================================================
+2024-01-21 14:22:06:648 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 14:22:07:135 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 14:22:07:228 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 14:22:07:254 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 14:22:21:988 => [                                            kfullscandlg.cpp, 00294] => Scan started at:11:22:21
+2024-01-21 14:22:31:909 => [                                              kguikernel.cpp, 03518] => Selected root name:C:(Windows-SSD)(NTFS)118.00 GB
+2024-01-21 14:22:32:170 => [                                            kfullscandlg.cpp, 00305] => Scan finished at:11:22:32
+=====================================================================================
+2024-01-21 14:23:57:355 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 14:23:57:514 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 14:23:57:566 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 14:23:57:566 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 14:24:08:086 => [                                            kfullscandlg.cpp, 00294] => Scan started at:11:24:08
+2024-01-21 14:24:15:989 => [                                              kguikernel.cpp, 03518] => Selected root name:C:(Windows-SSD)(NTFS)118.00 GB
+2024-01-21 14:24:16:142 => [                                            kfullscandlg.cpp, 00305] => Scan finished at:11:24:16
+=====================================================================================
+2024-01-21 14:25:19:201 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 14:25:19:358 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 14:25:19:400 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 14:25:19:421 => [                                          kvolumemanager.cpp, 00227] => Disk1, Sony DSC USB, CHS:488,255,63, total sectors: 7847936, bytes per sector = 512
+2024-01-21 14:25:19:731 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 14:25:19:731 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 14:25:37:117 => [                                            kfullscandlg.cpp, 00294] => Scan started at:11:25:37
+2024-01-21 14:25:37:329 => [                                            kfullscandlg.cpp, 00889] => Quick scan failed, note info < (D:)>
+2024-01-21 14:54:19:904 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7847906 requiredBytes:32256
+2024-01-21 14:54:19:905 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7847970 requiredBytes:32256
+2024-01-21 14:54:19:905 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848034 requiredBytes:32256
+2024-01-21 14:54:19:906 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848098 requiredBytes:32256
+2024-01-21 14:54:19:907 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848162 requiredBytes:32256
+2024-01-21 14:54:19:908 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848226 requiredBytes:32256
+2024-01-21 14:54:19:908 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848290 requiredBytes:32256
+2024-01-21 14:54:19:910 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848354 requiredBytes:32256
+2024-01-21 14:54:19:911 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848418 requiredBytes:32256
+2024-01-21 14:54:19:911 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848482 requiredBytes:32256
+2024-01-21 14:54:19:912 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848546 requiredBytes:32256
+2024-01-21 14:54:19:912 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848610 requiredBytes:32256
+2024-01-21 14:54:19:913 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848674 requiredBytes:32256
+2024-01-21 14:54:19:914 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848738 requiredBytes:32256
+2024-01-21 14:54:19:914 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848802 requiredBytes:32256
+2024-01-21 14:54:19:915 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848866 requiredBytes:32256
+2024-01-21 14:54:19:916 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848930 requiredBytes:32256
+2024-01-21 14:54:19:916 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7848994 requiredBytes:32256
+2024-01-21 14:54:19:917 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849058 requiredBytes:32256
+2024-01-21 14:54:19:918 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849122 requiredBytes:32256
+2024-01-21 14:54:19:918 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849186 requiredBytes:32256
+2024-01-21 14:54:19:919 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849250 requiredBytes:32256
+2024-01-21 14:54:19:920 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849314 requiredBytes:32256
+2024-01-21 14:54:19:921 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849378 requiredBytes:32256
+2024-01-21 14:54:19:921 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849442 requiredBytes:32256
+2024-01-21 14:54:19:922 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849506 requiredBytes:32256
+2024-01-21 14:54:19:923 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849570 requiredBytes:32256
+2024-01-21 14:54:19:923 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849634 requiredBytes:32256
+2024-01-21 14:54:19:924 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849698 requiredBytes:32256
+2024-01-21 14:54:19:926 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849762 requiredBytes:32256
+2024-01-21 14:54:19:927 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849826 requiredBytes:32256
+2024-01-21 14:54:19:927 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849890 requiredBytes:32256
+2024-01-21 14:54:19:928 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7849954 requiredBytes:32256
+2024-01-21 14:54:19:929 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850018 requiredBytes:32256
+2024-01-21 14:54:19:930 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850082 requiredBytes:32256
+2024-01-21 14:54:19:930 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850146 requiredBytes:32256
+2024-01-21 14:54:19:931 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850210 requiredBytes:32256
+2024-01-21 14:54:19:933 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850274 requiredBytes:32256
+2024-01-21 14:54:19:934 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850338 requiredBytes:32256
+2024-01-21 14:54:19:935 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850402 requiredBytes:32256
+2024-01-21 14:54:19:935 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850466 requiredBytes:32256
+2024-01-21 14:54:19:936 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850530 requiredBytes:32256
+2024-01-21 14:54:19:937 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850594 requiredBytes:32256
+2024-01-21 14:54:19:938 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850658 requiredBytes:32256
+2024-01-21 14:54:19:938 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850722 requiredBytes:32256
+2024-01-21 14:54:19:940 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850786 requiredBytes:32256
+2024-01-21 14:54:19:940 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850850 requiredBytes:32256
+2024-01-21 14:54:19:941 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850914 requiredBytes:32256
+2024-01-21 14:54:19:942 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7850978 requiredBytes:32256
+2024-01-21 14:54:19:943 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851042 requiredBytes:32256
+2024-01-21 14:54:19:943 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851106 requiredBytes:32256
+2024-01-21 14:54:19:944 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851170 requiredBytes:32256
+2024-01-21 14:54:19:945 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851234 requiredBytes:32256
+2024-01-21 14:54:19:946 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851298 requiredBytes:32256
+2024-01-21 14:54:19:946 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851362 requiredBytes:32256
+2024-01-21 14:54:19:947 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851426 requiredBytes:32256
+2024-01-21 14:54:19:948 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851490 requiredBytes:32256
+2024-01-21 14:54:19:949 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851554 requiredBytes:32256
+2024-01-21 14:54:19:950 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851618 requiredBytes:32256
+2024-01-21 14:54:19:950 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851682 requiredBytes:32256
+2024-01-21 14:54:19:951 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851746 requiredBytes:32256
+2024-01-21 14:54:19:952 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851810 requiredBytes:32256
+2024-01-21 14:54:19:952 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851874 requiredBytes:32256
+2024-01-21 14:54:19:953 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7851938 requiredBytes:32256
+2024-01-21 14:54:19:954 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852002 requiredBytes:32256
+2024-01-21 14:54:19:955 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852066 requiredBytes:32256
+2024-01-21 14:54:19:955 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852130 requiredBytes:32256
+2024-01-21 14:54:19:956 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852194 requiredBytes:32256
+2024-01-21 14:54:19:957 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852258 requiredBytes:32256
+2024-01-21 14:54:19:958 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852322 requiredBytes:32256
+2024-01-21 14:54:19:958 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852386 requiredBytes:32256
+2024-01-21 14:54:19:959 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852450 requiredBytes:32256
+2024-01-21 14:54:19:960 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852514 requiredBytes:32256
+2024-01-21 14:54:19:960 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852578 requiredBytes:32256
+2024-01-21 14:54:19:961 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852642 requiredBytes:32256
+2024-01-21 14:54:19:962 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852706 requiredBytes:32256
+2024-01-21 14:54:19:962 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852770 requiredBytes:32256
+2024-01-21 14:54:19:963 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852834 requiredBytes:32256
+2024-01-21 14:54:19:964 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852898 requiredBytes:32256
+2024-01-21 14:54:19:965 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7852962 requiredBytes:32256
+2024-01-21 14:54:19:965 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853026 requiredBytes:32256
+2024-01-21 14:54:19:966 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853090 requiredBytes:32256
+2024-01-21 14:54:19:967 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853154 requiredBytes:32256
+2024-01-21 14:54:19:967 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853218 requiredBytes:32256
+2024-01-21 14:54:19:968 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853282 requiredBytes:32256
+2024-01-21 14:54:19:969 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853346 requiredBytes:32256
+2024-01-21 14:54:19:969 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853410 requiredBytes:32256
+2024-01-21 14:54:19:970 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853474 requiredBytes:32256
+2024-01-21 14:54:19:971 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853538 requiredBytes:32256
+2024-01-21 14:54:19:972 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853602 requiredBytes:32256
+2024-01-21 14:54:19:972 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853666 requiredBytes:32256
+2024-01-21 14:54:19:973 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853730 requiredBytes:32256
+2024-01-21 14:54:19:973 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853794 requiredBytes:32256
+2024-01-21 14:54:19:974 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853858 requiredBytes:32256
+2024-01-21 14:54:19:975 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853922 requiredBytes:32256
+2024-01-21 14:54:19:975 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7853986 requiredBytes:32256
+2024-01-21 14:54:19:976 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7854050 requiredBytes:32256
+2024-01-21 14:54:19:977 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7854114 requiredBytes:32256
+2024-01-21 14:54:19:977 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7854178 requiredBytes:32256
+2024-01-21 14:54:19:978 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=27 LBA=7854242 requiredBytes:32256
+=====================================================================================
+2024-01-21 15:13:29:590 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 15:13:30:140 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 15:13:30:189 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 15:13:30:207 => [                                          kvolumemanager.cpp, 00227] => Disk1, Sony DSC USB, CHS:488,255,63, total sectors: 7847936, bytes per sector = 512
+2024-01-21 15:13:30:473 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:13:30:473 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:13:39:273 => [                                            kfullscandlg.cpp, 00294] => Scan started at:12:13:39
+2024-01-21 15:13:39:487 => [                                            kfullscandlg.cpp, 00889] => Quick scan failed, note info < (D:)>
+=====================================================================================
+2024-01-21 15:15:48:410 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 15:15:48:629 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 15:15:48:690 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 15:15:48:701 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:16:04:019 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 15:16:04:073 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 15:16:04:081 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:16:06:940 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 15:16:06:999 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 15:16:07:058 => [                                          kvolumemanager.cpp, 00227] => Disk1, Sony DSC USB, CHS:488,255,63, total sectors: 7847936, bytes per sector = 512
+2024-01-21 15:16:07:322 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:16:07:324 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:16:10:979 => [                                            kfullscandlg.cpp, 00294] => Scan started at:12:16:10
+2024-01-21 15:16:11:191 => [                                            kfullscandlg.cpp, 00889] => Quick scan failed, note info < (D:)>
+=====================================================================================
+2024-01-21 15:28:52:966 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 15:28:53:543 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 15:28:53:622 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 15:28:53:760 => [                                          kvolumemanager.cpp, 00227] => Disk1, Sony DSC USB, CHS:488,255,63, total sectors: 7847936, bytes per sector = 512
+2024-01-21 15:28:54:156 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:28:54:158 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 15:29:06:058 => [                                            kfullscandlg.cpp, 00294] => Scan started at:12:29:06
+2024-01-21 15:29:06:274 => [                                            kfullscandlg.cpp, 00889] => Quick scan failed, note info < (D:)>
+=====================================================================================
+2024-01-21 16:40:57:983 => [                                                    main.cpp, 00356] => set font: Arial
+2024-01-21 16:40:58:743 => [                                          kvolumemanager.cpp, 00227] => Disk0, WDC PC SN520 SDAPMUW-128G-1101, CHS:15566,255,63, total sectors: 250069680, bytes per sector = 512
+2024-01-21 16:40:58:809 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2024-01-21 16:40:58:837 => [                                          kvolumemanager.cpp, 00227] => Disk1, Sony DSC USB, CHS:488,255,63, total sectors: 7847936, bytes per sector = 512
+2024-01-21 16:40:59:100 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 16:40:59:101 => [                                             dynamicdisk.cpp, 00268] => Invalid private header in DiskGroup[].
+2024-01-21 16:41:07:764 => [                                            kfullscandlg.cpp, 00294] => Scan started at:13:41:07
+2024-01-21 16:41:07:976 => [                                            kfullscandlg.cpp, 00889] => Quick scan failed, note info < (D:)>
+2024-01-21 16:44:38:147 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=677602 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=677858 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=678114 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=678370 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=678626 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=678882 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=679138 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=679394 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=679650 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=679906 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=680162 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=680418 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=680674 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=680930 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=681186 requiredBytes:32256
+2024-01-21 16:44:38:148 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=681442 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=681698 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=681954 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=682210 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=682466 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=682722 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=682978 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=683234 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=683490 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=683746 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=684002 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=684258 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=684514 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=684770 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=685026 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=685282 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=685538 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=685794 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=686050 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=686306 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=686562 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=686818 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=687074 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=687330 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=687586 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=687842 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=688098 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=688354 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=688610 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=688866 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=689122 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=689378 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=689634 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=689890 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=690146 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=690402 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=690658 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=690914 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=691170 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=691426 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=691682 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=691938 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=692194 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=692450 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=692706 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=692962 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=693218 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=693474 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=693730 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=693986 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=694242 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=694498 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=694754 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=695010 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=695266 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=695522 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=695778 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=696034 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=696290 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=696546 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=696802 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=697058 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=697314 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=697570 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=697826 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=698082 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=698338 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=698594 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=698850 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=699106 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=699362 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=699618 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=699874 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=700130 requiredBytes:32256
+2024-01-21 16:44:38:149 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=700386 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=700642 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=700898 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=701154 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=701410 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=701666 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=701922 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=702178 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=702434 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=702690 requiredBytes:32256
+2024-01-21 16:44:38:150 => [                                                   kdisk.cpp, 00104] => Failed to read disk: errCode=433 LBA=702946 requiredBytes:32256
