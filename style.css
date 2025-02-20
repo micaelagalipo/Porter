@@ -401,44 +401,44 @@
     }
 
     #welcome{
-        transform: translateX(-5px) translateY(330px);
+        transform: translateX(20px) translateY(250px);
     }
 
     #texto1{
-        transform: translateX(-5px) translateY(330px);
+        transform: translateX(20px) translateY(245px);
     }
 
     #gossip{
-        transform: translateX(200px) translateY(190px);
+        transform: translateX(210px) translateY(120px);
     }
 
     #texto2{
-        transform: translateX(200px) translateY(185px);
+        transform: translateX(200px) translateY(115px);
     }
 
     #pics{
-        transform: translateX(200px) translateY(163px);
+        transform: translateX(240px) translateY(110px);
 
     }
 
     #texto3{
-        transform: translateX(170px) translateY(163px);
+        transform: translateX(240px) translateY(110px);
     }
 
     .link1{
-        transform: translateX(170px) translateY(155px);
+        transform: translateX(250px) translateY(110px);
     }
     
     #parties{
-        transform: translateX(100px) translateY(135px);
+        transform: translateX(25px) translateY(50px);
     }
  
     #texto4{
-        transform: translateX(100px) translateY(133px);
+        transform: translateX(20px) translateY(45px);
     }
 
     .link3{
-        transform: translateX(100px) translateY(135px);
+        transform: translateX(20px) translateY(50px);
     }
 
     #texto42{
