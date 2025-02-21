@@ -485,13 +485,15 @@
     }
 
     .spotted{
-        width: 250px;
+        width: 160px;
         height: auto;
-        transform: translateX(-60%) translateY(-75%);
+        transform: translateX(-60%) translateY(-120%);
+        position: fixed;
     }
 
     #welcome{
-        transform: translateX(20px) translateY(250px);
+        transform: translateX(0px) translateY(380px);
+        scale: 0.5
     }
 
     #texto1{
@@ -499,36 +501,43 @@
     }
 
     #gossip{
-        transform: translateX(210px) translateY(120px);
+        transform: translateX(300px) translateY(125px);
+        scale: 0.5
     }
  
     #texto2{
-        transform: translateX(200px) translateY(115px);
+        transform: translateX(200px) translateY(70px);
+        scale: 0.7
     }
 
     #pics{
-        transform: translateX(240px) translateY(110px);
-
+        transform: translateX(240px) translateY(60px);
+        scale: 0.5
     }
 
     #texto3{
-        transform: translateX(240px) translateY(110px);
+        transform: translateX(210px) translateY(30px);
+        scale: 0.7
     }
 
     .link1{
-        transform: translateX(250px) translateY(110px);
+        transform: translateX(210px) translateY(20px);
+        scale: 0.7
     }
     
     #parties{
-        transform: translateX(25px) translateY(50px);
+        transform: translateX(45px) translateY(-70px);
+        scale: 0.5
     }
 
     #texto4{
-        transform: translateX(20px) translateY(45px);
+        transform: translateX(15px) translateY(-60px);
+        scale: 0.7
     }
 
     .link3{
-        transform: translateX(20px) translateY(50px);
+        transform: translateX(35px) translateY(-50px);
+        scale: 0.7
     }
 
     #texto42{
@@ -540,11 +549,13 @@
     }
  
     #linkstexto{
-        transform: translateX(230px) translateY(10px);
+        transform: translateX(230px) translateY(-180px);
+        scale: 0.5
     }
 
     #derecha{
-        transform: translateX(205px) translateY(-30px);  
+        transform: translateX(205px) translateY(-30px);
+        scale: 0.6
     }
 }
 
