@@ -395,50 +395,59 @@
     }
 
     .spotted{
-        width: 220px;
+        width: 200px;
         height: auto;
-        transform: translateX(-81%) translateY(-50%);
+        transform: translateX(-81%) translateY(-95%);
     }
 
     #welcome{
-        transform: translateX(20px) translateY(250px);
+        transform: translateX(-20px) translateY(450px);
+        scale: 0.5
     }
 
     #texto1{
-        transform: translateX(20px) translateY(245px);
+        transform: translateX(10px) translateY(300px);
+        scale: 0.7
     }
 
     #gossip{
-        transform: translateX(210px) translateY(120px);
+        transform: translateX(300px) translateY(200px);
+        scale: 0.5
     }
 
     #texto2{
-        transform: translateX(200px) translateY(115px);
+        transform: translateX(220px) translateY(130px);
+        scale: 0.7
     }
 
     #pics{
-        transform: translateX(240px) translateY(110px);
-
+        transform: translateX(270px) translateY(150px);
+        scale: 0.5
     }
 
     #texto3{
-        transform: translateX(240px) translateY(110px);
+        transform: translateX(225px) translateY(90px);
+        scale: 0.7
     }
 
     .link1{
-        transform: translateX(250px) translateY(110px);
+        transform: translateX(220px) translateY(85px);
+        scale: 0.7
     }
     
     #parties{
-        transform: translateX(25px) translateY(50px);
+        transform: translateX(25px) translateY(10px);
+        scale: 0.5
     }
  
     #texto4{
-        transform: translateX(20px) translateY(45px);
+        transform: translateX(10px) translateY(-5px);
+        scale: 0.7
     }
 
     .link3{
-        transform: translateX(20px) translateY(50px);
+        transform: translateX(30px) translateY(5px);
+        scale: 0.7
     }
 
     #texto42{
@@ -450,13 +459,15 @@
     }
 
     #linkstexto{
-        transform: translateX(0px) translateY(15px);
+        transform: translateX(0px) translateY(-40px);
+        scale: 0.7
     }
 
     #derecha{
-        transform: translateX(205px) translateY(-30px);  
+        transform: translateX(205px) translateY(-30px); 
+        scale: 0.7;
+        max-width: 10%;
     }
-
 }
 
 @media (max-width: 480px){
