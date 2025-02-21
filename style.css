@@ -552,50 +552,59 @@
     }
 
     .spotted{
-        width: 50%;
+        width: 40%;
         height: auto;
-        transform: translateX(-81%) translateY(-100%);
+        transform: translateX(-81%) translateY(-170%);
     }
 
     #welcome{
-        transform: translateX(20px) translateY(280px);
+        transform: translateX(-50px) translateY(240px);
+        scale: 0.5
     }
 
     #texto1{
-        transform: translateX(20px) translateY(280px);
+        transform: translateX(-10px) translateY(140px);
+        scale: 0.7
     }
 
     #gossip{
-        transform: translateX(200px) translateY(190px);
+        transform: translateX(200px) translateY(90px);
+        scale: 0.5
     }
 
     #texto2{
-        transform: translateX(200px) translateY(185px);
+        transform: translateX(165px) translateY(40px);
+        scale: 0.7
     }
 
     #pics{
-        transform: translateX(200px) translateY(167px);
-
+        transform: translateX(200px) translateY(40px);
+        scale: 0.5
     }
 
     #texto3{
-        transform: translateX(170px) translateY(163px);
+        transform: translateX(160px) translateY(70px);
+        scale: 0.7
     }
 
     .link1{
-        transform: translateX(170px) translateY(155px);
+        transform: translateX(150px) translateY(70px);
+        scale: 0.7
     }
     
     #parties{
-        transform: translateX(20px) translateY(90px);
+        transform: translateX(-10px) translateY(-190px);
+        scale: 0.5
     }
 
     #texto4{
-        transform: translateX(20px) translateY(95px);
+        transform: translateX(-10px) translateY(-155px);
+        scale: 0.7
     }
 
     .link3{
-        transform: translateX(20px) translateY(95px);
+        transform: translateX(-10px) translateY(-190px);
+        scale: 0.5
     }
 
     #texto42{
@@ -607,10 +616,12 @@
     }
 
     #linkstexto{
-        transform: translateX(200px) translateY(15px);
+        transform: translateX(-40px) translateY(-275px);
+        scale: 0.5
     }
 
     #derecha{
-        transform: translateX(220px) translateY(-30px);  
+        transform: translateX(270px) translateY(-100px);  
+        scale: 0.6
     }
 }
