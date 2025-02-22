@@ -501,12 +501,12 @@
     }
 
     #gossip{
-        transform: translateX(270px) translateY(125px);
+        transform: translateX(280px) translateY(125px);
         scale: 0.5
     }
  
     #texto2{
-        transform: translateX(230px) translateY(70px);
+        transform: translateX(190px) translateY(70px);
         scale: 0.7
     }
 
@@ -531,7 +531,7 @@
     }
 
     #texto4{
-        transform: translateX(15px) translateY(-65px);
+        transform: translateX(25px) translateY(-65px);
         scale: 0.7
     }
 
