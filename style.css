@@ -485,9 +485,9 @@
     }
 
     .spotted{
-        width: 160px;
+        width: 120px;
         height: auto;
-        transform: translateX(-60%) translateY(-120%);
+        transform: translateX(-60%) translateY(-163%);
         position: fixed;
     }
 
@@ -511,7 +511,7 @@
     }
 
     #pics{
-        transform: translateX(240px) translateY(60px);
+        transform: translateX(280px) translateY(60px);
         scale: 0.5
     }
 
@@ -531,7 +531,7 @@
     }
 
     #texto4{
-        transform: translateX(15px) translateY(-60px);
+        transform: translateX(15px) translateY(-65px);
         scale: 0.7
     }
 
@@ -549,8 +549,8 @@
     }
  
     #linkstexto{
-        transform: translateX(230px) translateY(-180px);
-        scale: 0.5
+        transform: translateX(230px) translateY(-150px);
+        scale: 0.7
     }
 
     #derecha{
@@ -558,7 +558,6 @@
         scale: 0.6
     }
 }
-
 @media (max-width: 375px){
     .imagen {
         background-size: cover; 
