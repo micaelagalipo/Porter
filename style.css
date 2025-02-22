@@ -395,9 +395,9 @@
     }
 
     .spotted{
-        width: 200px;
+        width: 160px;
         height: auto;
-        transform: translateX(-81%) translateY(-95%);
+        transform: translateX(-81%) translateY(-125%);
     }
 
     #welcome{
@@ -421,7 +421,7 @@
     }
 
     #pics{
-        transform: translateX(270px) translateY(150px);
+        transform: translateX(300px) translateY(150px);
         scale: 0.5
     }
 
@@ -441,7 +441,7 @@
     }
  
     #texto4{
-        transform: translateX(10px) translateY(-5px);
+        transform: translateX(10px) translateY(-3px);
         scale: 0.7
     }
 
@@ -460,7 +460,7 @@
 
     #linkstexto{
         transform: translateX(0px) translateY(-40px);
-        scale: 0.7
+        scale: 0.8
     }
 
     #derecha{
