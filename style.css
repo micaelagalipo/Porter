@@ -485,9 +485,9 @@
     }
 
     .spotted{
-        width: 120px;
+        width: 140px;
         height: auto;
-        transform: translateX(-60%) translateY(-163%);
+        transform: translateX(-60%) translateY(-183%);
         position: fixed;
     }
 
@@ -511,7 +511,7 @@
     }
 
     #pics{
-        transform: translateX(280px) translateY(60px);
+        transform: translateX(250px) translateY(60px);
         scale: 0.5
     }
 
