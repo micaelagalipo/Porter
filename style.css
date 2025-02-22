@@ -575,7 +575,7 @@
     .spotted{
         width: 35%;
         height: auto;
-        transform: translateX(-81%) translateY(-260%);
+        transform: translateX(-81%) translateY(-270%);
     }
 
     #welcome{
@@ -663,7 +663,7 @@
     .spotted{
         width: 35%;
         height: auto;
-        transform: translateX(-81%) translateY(-310%);
+        transform: translateX(-81%) translateY(-360%);
     }
 
     #welcome{
