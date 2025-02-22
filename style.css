@@ -645,4 +645,92 @@
         transform: translateX(270px) translateY(-100px);  
         scale: 0.6
     }
+
+    @media (max-width: 273px){
+    .imagen {
+        background-size: cover; 
+        background-position: center;
+        position: fixed;
+        min-width: 100%;
+    }
+
+    .logo1{
+        width: 370px;
+        height: 110px;
+        max-width: 400px;
+    }
+
+    .spotted{
+        width: 35%;
+        height: auto;
+        transform: translateX(-81%) translateY(-310%);
+    }
+
+    #welcome{
+        transform: translateX(-50px) translateY(240px);
+        scale: 0.5
+    }
+
+    #texto1{
+        transform: translateX(-10px) translateY(140px);
+        scale: 0.7
+    }
+
+    #gossip{
+        transform: translateX(200px) translateY(90px);
+        scale: 0.5
+    }
+
+    #texto2{
+        transform: translateX(165px) translateY(40px);
+        scale: 0.7
+    }
+
+    #pics{
+        transform: translateX(200px) translateY(40px);
+        scale: 0.5
+    }
+
+    #texto3{
+        transform: translateX(160px) translateY(70px);
+        scale: 0.7
+    }
+
+    .link1{
+        transform: translateX(150px) translateY(70px);
+        scale: 0.7
+    }
+    
+    #parties{
+        transform: translateX(-10px) translateY(-190px);
+        scale: 0.5
+    }
+
+    #texto4{
+        transform: translateX(-10px) translateY(-155px);
+        scale: 0.7
+    }
+
+    .link3{
+        transform: translateX(-10px) translateY(-190px);
+        scale: 0.5
+    }
+
+    #texto42{
+        transform: translateX(20px) translateY(95px);
+    }
+    
+    #texto43{
+        transform: translateX(20px) translateY(97px);
+    }
+
+    #linkstexto{
+        transform: translateX(-40px) translateY(-275px);
+        scale: 0.5
+    }
+
+    #derecha{
+        transform: translateX(270px) translateY(-100px);  
+        scale: 0.6
+    }
 }
