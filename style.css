@@ -487,7 +487,7 @@
     .spotted{
         width: 140px;
         height: auto;
-        transform: translateX(-60%) translateY(-183%);
+        transform: translateX(-60%) translateY(-153%);
         position: fixed;
     }
 
@@ -501,12 +501,12 @@
     }
 
     #gossip{
-        transform: translateX(300px) translateY(125px);
+        transform: translateX(270px) translateY(125px);
         scale: 0.5
     }
  
     #texto2{
-        transform: translateX(210px) translateY(70px);
+        transform: translateX(230px) translateY(70px);
         scale: 0.7
     }
 
